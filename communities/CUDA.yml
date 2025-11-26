@@ -1,0 +1,30 @@
+---
+community_name: CUDA
+community_org_url: ''
+community_logo_url: https://github.com/NVIDIA.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/NVIDIA/cutlass
+    - https://github.com/NVIDIA/nccl
+    - https://github.com/NVIDIA/cub
+    - https://github.com/nvidia-holoscan/holoscan-sdk
+    - https://github.com/NVIDIA/cudnn-frontend
+    - https://github.com/NVIDIA/cuda-python
+    - https://github.com/NVIDIA/nvmath-python
+    - https://github.com/rapidsai/cudf
+    - https://github.com/NVIDIA/thrust
+    - https://github.com/NVIDIA/DALI
+    - https://github.com/NVIDIA/TensorRT
+    - https://github.com/NVIDIA/Megatron-LM
+    - https://github.com/ai-dynamo/dynamo
+    - https://github.com/CVCUDA/CV-CUDA
+    - https://github.com/NVIDIA-NeMo/NeMo
+    - https://github.com/NVIDIA/cuopt
+    - https://github.com/NVIDIA/cuda-quantum
+    - https://github.com/NVIDIA/cudaqx
+    - https://github.com/NVIDIA-Merlin/HugeCTR
+
+  governance-repositories:
+    repo_urls:
+    - https://github.com/NVIDIA/numba-cuda
