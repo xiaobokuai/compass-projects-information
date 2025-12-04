@@ -5,7 +5,7 @@ community_logo_url: https://cdn-img.gitcode.com/de/be/6d9e04b9e2ea6e0053ebbc4e10
 resource_types:
   software-artifact-repositories:
     repo_urls:
-      -https://gitcode.com/openFuyao/env-check
+      - https://gitcode.com/openFuyao/env-check
       - https://gitcode.com/openFuyao/confidential-containers-deployment
       - https://gitcode.com/openFuyao/eagle-eye
       - https://gitcode.com/openFuyao/mooncake
